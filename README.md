@@ -3,6 +3,8 @@
 ### 學號:M10701106
 ### 系級:工管碩
 ### homework 1
+### flow chart :
+![Image 0](/images/hw1.png)
 ### click run and key the input separately :
 ![Image 1](/images/1.png)
 ### the output :
