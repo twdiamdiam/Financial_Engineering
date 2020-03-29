@@ -9,3 +9,9 @@
 ![Image 1](/images/1.png)
 ### the output :
 ![Image 2](/images/2.png)
+### homework 2
+### key the input separately :
+![Image 4](/images/hw2.png)
+### which the price sequence is when the price table is :
+![Image 5](/images/hw2t.png)
+### then the 5 years maturity's price sequence is 91,92,93,94,95 . 
