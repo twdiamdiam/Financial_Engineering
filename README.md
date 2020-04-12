@@ -4,6 +4,7 @@
 ### 系級:工管碩
 ### homework 3
 ![Image 7](/images/hw3.png)
+![Image 8](/images/hw3t.png)
 ### homework 2
 ### key the input separately :
 ![Image 4](/images/hw2.png)
