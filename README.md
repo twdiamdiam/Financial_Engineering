@@ -2,6 +2,8 @@
 ### 姓名:蔡佳修
 ### 學號:M10701106
 ### 系級:工管碩
+### homework 3
+![Image 7](/images/hw3.png)
 ### homework 2
 ### key the input separately :
 ![Image 4](/images/hw2.png)
