@@ -2,6 +2,9 @@
 ### 姓名:蔡佳修
 ### 學號:M10701106
 ### 系級:工管碩
+### homework 5
+![Image 7](/images/hw5.png)
+![Image 8](/images/hw5t.png)
 ### homework 4
 ![Image 7](/images/hw4.png)
 ![Image 8](/images/hw4t.png)
